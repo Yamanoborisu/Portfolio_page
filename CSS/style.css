@@ -145,7 +145,7 @@ main {
   width: 10px;
   height: 1px;
   border: 1px solid #000;
-  margin-bottom: calc(7vh-1px);
+  margin-bottom: 7vh;
   visibility: hidden;
 }
 
