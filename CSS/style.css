@@ -140,6 +140,7 @@ main {
 
 #projects {
   width: 100%;
+  min-height: 100vh;
   background-color: #e6dfdf;
 }
 #projects header {
