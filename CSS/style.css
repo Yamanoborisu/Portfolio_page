@@ -139,6 +139,7 @@ main {
   font-weight: 300;
   font-style: italic;
   line-height: 10vw;
+  text-align: center;
 }
 
 #projects_link {
@@ -184,6 +185,7 @@ main {
   border: 3px solid #e3baba;
   box-shadow: 3px 3px 20px 0px #0f0f0f;
   width: 42vw;
+  height: calc(42vw / 1.675392670);
 }
 .projects_container a p {
   display: block;
@@ -270,7 +272,7 @@ main {
 #phone {
   font-size: 3.5rem;
   margin-left: 55%;
-  margin-bottom: 10%;
+  margin-bottom: 18%;
 }
 
 @media (min-width: 1280px) {
